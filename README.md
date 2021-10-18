@@ -2,7 +2,14 @@
 
 ### Um pouco sobre mim.
 
+- 👨‍🎓 Sou graduado em **Administração em Recursos Humanos, Administração de Empresa** pela **Universidade Nove de Julho (UNINOVE)**.
+- 👨‍🎓 Pós graduado em **Controladoria e Finanças Corporativas** pela **Universidade Cidade de São Paulo (UNICID)**.
+- 👨‍🎓 Graduado em **Banco de Dados pela Faculdade Impacta de Tecnologia**.
 - 🔭 Hoje trabalho como Engenheiro de Dados
+- 🎯 Sempre estou estudando tecnologias voltadas para área de Engenharia de Dados como: **Python, Scala, Sql Server, Docker, PostgreSQL, MongoDB, Cassandra, HBase, Hadoop, Zookeeper, AWS, Azure, Google Cloud e outros.**
+
+</br>
+</br>
 
 <div align="center">
   <a href="https://github.com/romulovieira777">
@@ -10,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulovieira777&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
+ ### Skills :nerd_face:
  <div style="display: inline_block"><br>  
   <img align="center" alt="Romulo-Python="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Romulo-Jupyter="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
