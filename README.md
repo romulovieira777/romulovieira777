@@ -6,7 +6,7 @@
 - 👨‍🎓 Pós graduado em **Controladoria e Finanças Corporativas** pela **Universidade Cidade de São Paulo (UNICID)**.
 - 👨‍🎓 Graduado em **Banco de Dados pela Faculdade Impacta de Tecnologia**.
 - 🔭 Hoje trabalho como Engenheiro de Dados
-- 🎯 Sempre estou estudando tecnologias voltadas para área de Engenharia de Dados como: **Python, Scala, Sql Server, Docker, PostgreSQL, MongoDB, Cassandra, HBase, Hadoop, Zookeeper, AWS, Azure, Google Cloud e outros.**
+- 🎯 Sempre estou estudando tecnologias voltadas para área de Engenharia de Dados como: **Python, Scala, Sql Server, Docker, PostgreSQL, MongoDB, Cassandra, Spark, HBase, Hadoop, Zookeeper, AWS, Azure, Google Cloud e outros.**
 
 </br>
 </br>
@@ -26,6 +26,7 @@
   <img align="center" alt="Romulo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Romulo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Romulo-Scala" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg">
+  <img align="center" alt="Romulo-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Romulo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Romulo-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
 </div>
