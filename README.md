@@ -34,7 +34,7 @@
 ##
 
 <div>
-  <a href = "mailto:romulo.vieira777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>" target="_blank"</a>
+  <a href = "mailto:romulo.vieira777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white>" target="_blank"</a>
   <a href="https://www.linkedin.com/in/r%C3%B4mulo-vieira-7789dds77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://github.com/romulovieira777"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>" target="_blank"</a>
 </div>
