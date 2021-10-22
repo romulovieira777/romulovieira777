@@ -20,7 +20,7 @@
  ### Skills :nerd_face:
  <div style="display: inline_block"><br>  
   <img align="center" alt="Romulo-Python"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Romulo-Jupyter"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Romulo-Jupyter"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Romulo-Scala" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
   <img align="center" alt="Romulo-Microsoft-SQL-Server" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Romulo-Postgresql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
