@@ -51,6 +51,7 @@
   <img align="center" alt="Romulo-Windows" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Romulo-Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Romulo-PowerBI" height="50" width="60" src="https://img.icons8.com/color/48/000000/power-bi.png">
+  <img align="center" alt="Romulo-Airflow" height="50" width="60" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4">
 </div>  
 
 ##
@@ -62,3 +63,4 @@
 </div>
  
 ![Snake animation](https://github.com/romulovieira777/romulovieira777/blob/output/github-contribution-grid-snake.svg)
+![](https://komarev.com/ghpvc/?username=your-romulovieira777)
