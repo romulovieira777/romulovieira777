@@ -2,9 +2,9 @@
 
 ### Um pouco sobre mim.
 
-- 👨‍🎓 Sou graduado em **Administração em Recursos Humanos, Administração de Empresa** pela **Universidade Nove de Julho (UNINOVE)**.
-- 👨‍🎓 Pós graduado em **Controladoria e Finanças Corporativas** pela **Universidade Cidade de São Paulo (UNICID)**.
 - 👨‍🎓 Graduado em **Banco de Dados pela Faculdade Impacta de Tecnologia**.
+- 👨‍🎓 Pós graduado em **Controladoria e Finanças Corporativas** pela **Universidade Cidade de São Paulo (UNICID)**.
+- 👨‍🎓 Sou graduado em **Administração em Recursos Humanos, Administração de Empresa** pela **Universidade Nove de Julho (UNINOVE)**.
 - 🔭 Hoje trabalho como Engenheiro de Dados
 - 🎯 Sempre estou estudando tecnologias voltadas para área de Engenharia de Dados como: **Python, Scala, Sql Server, Docker, PostgreSQL, MongoDB, Cassandra, Spark, HBase, Hadoop, Zookeeper, AWS, Azure, Google Cloud e outros.**
 
