@@ -38,6 +38,7 @@
 ### ☁️ Cloud:
 <div style="display: inline_block"><br>  
    <img align="center" alt="Romulo-GCP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+   <img align="center" alt="Romulo-AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />          
    <img align="center" alt="Romulo-Azure" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
 <hr>
