@@ -2,7 +2,7 @@
 
 ### Um pouco sobre mim.
 
-- 👨‍🎓 Estudando MBA em **Data Engineering pela Faculdade Impacta de Tecnologia**.
+- 👨‍🎓 MBA em **Data Engineering pela Faculdade Impacta de Tecnologia**.
 - 👨‍🎓 Sou Pós graduado em **Controladoria e Finanças Corporativas** pela **Universidade Cidade de São Paulo (UNICID)**.
 - 👨‍🎓 Graduado em **Banco de Dados pela Faculdade Impacta de Tecnologia**.
 - 👨‍🎓 Graduado em **Administração em Recursos Humanos, Administração de Empresa** pela **Universidade Nove de Julho (UNINOVE)**.
